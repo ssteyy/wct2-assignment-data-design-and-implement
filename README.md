@@ -4,7 +4,7 @@
 - **Part 2:** Draw the ER Diagram
 - **Part 3:** Transform the ER Model into Relational Tables.
 - **Part 4:** Create SQL Tables.
-- **Part 5: Insert Sample Data.
+- **Part 5:** Insert Sample Data.
 - **Part 6:** Querying the Database.
 
 ###  Submission Guidelines
